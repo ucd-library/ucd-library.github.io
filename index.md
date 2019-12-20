@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 <h1>H1 tag</h1>
 <h2>H2 tag</h2>
 <h3>H3 tag</h3>
