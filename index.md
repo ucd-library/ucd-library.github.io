@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Blogging Like a Librarian
 ---
 
 <h1>H1 tag</h1>
@@ -15,3 +15,6 @@ p tag
 <footer>
 footer tag
 </footer>
+
+<!-- It supports Git Markdown! -->
+[github](http://www.google.com)
